@@ -8,6 +8,4 @@ classification: notebook of only a few cells written 10/31/2017 that builds, tra
 - loads CIFAR image data
 - develops NN model for class prediction
 - trains and then tests model after achieving desired performance
-# Synapse
-# Synapse
-# Synapse
+
